@@ -8,3 +8,6 @@ for(let item of navbar_items.children){
         this.classList.add('active');
     })
 }
+
+
+//Calculate profit amount
